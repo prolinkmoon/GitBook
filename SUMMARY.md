@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Avail](README.md)
-  * [Project Overview](avail/project-overview.md)
+* [Welcome](README.md)
+  * [Overview](welcome/overview.md)
+* [Learning Center](learning-center.md)
+* [Dymension](dymension/README.md)
+  * [Services](dymension/services.md)
+  * [Install](dymension/install.md)
