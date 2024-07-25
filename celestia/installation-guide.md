@@ -6,7 +6,7 @@ description: Celestia node installation guide
 
 ## Node Requirement
 
-<table data-full-width="false"><thead><tr><th width="262.3333333333333">Requirement</th><th>Details</th></tr></thead><tbody><tr><td>CPU</td><td>4 Cores</td></tr><tr><td>RAM / Memory</td><td>8 GB</td></tr><tr><td>Storage</td><td>~1 TB</td></tr><tr><td>Network</td><td>~100Mbps</td></tr><tr><td>OS</td><td>Ubuntu 22.0 (x64)</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="262.3333333333333">Requirement</th><th>Details</th></tr></thead><tbody><tr><td>CPU</td><td>4 Cores</td></tr><tr><td>RAM / Memory</td><td>8 GB</td></tr><tr><td>Storage</td><td>500 gb</td></tr><tr><td>Network</td><td>100 Mbps</td></tr><tr><td>OS</td><td>Ubuntu 22.0 (x64)</td></tr></tbody></table>
 
 ## Install dependencies
 
