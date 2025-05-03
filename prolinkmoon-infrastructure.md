@@ -46,7 +46,7 @@ We provide Explorer by Ping.Pub with Prolinkmoon RPC, API .etc. and also for mon
 
 
 
-**How Prolinkmoon manage cost-efficiency and avoid node bloat ?**&#x20;
+**How Prolinkmoon manage cost-efficiency and avoid node bloat ?&#x20;**_**\*Docs are being written .. 🛠**_
 
 ## Prolinkmoon Playground
 
@@ -56,5 +56,5 @@ We provide Explorer by Ping.Pub with Prolinkmoon RPC, API .etc. and also for mon
 
 ## Other Network
 
-— a prolinkmoon infra for other Network ( Docs docs are being written 🛠 )
+— a prolinkmoon infra for other Network ( Docs are being written 🛠 )
 
