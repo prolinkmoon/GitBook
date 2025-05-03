@@ -12,7 +12,7 @@ description: Celestia node installation guide
 
 Included: Make, Go, Cosmovisor
 
-```sh
+```bash
 # For the culture XD
 sudo apt update && sudo apt upgrade -y
 
