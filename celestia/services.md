@@ -11,7 +11,7 @@ description: Prolinkmoon services
 Prolinkmoon Celestia RPC
 
 ```
-https://rpc-celestia.prolinkmoon.com
+https://rpc-celestia.prolinkmoon.com //Closed🔴
 ```
 {% endtab %}
 
@@ -19,7 +19,7 @@ https://rpc-celestia.prolinkmoon.com
 Prolinkmoon Celestia gRPC
 
 ```
-https://grpc-celestia.prolinkmoon.com
+https://grpc-celestia.prolinkmoon.com //Closed🔴
 ```
 {% endtab %}
 
@@ -27,7 +27,7 @@ https://grpc-celestia.prolinkmoon.com
 Prolinkmoon Celestia API
 
 ```
-https://api-celestia.prolinkmoon.com
+https://api-celestia.prolinkmoon.com //Closed🔴
 ```
 {% endtab %}
 
@@ -35,7 +35,7 @@ https://api-celestia.prolinkmoon.com
 Prolinkmoon PEERS
 
 ```toml
-a24c0e39c6368318abaef4594e6bb6c39f6d1340@celestia.prolinkmoon.com:443
+a24c0e39c6368318abaef4594e6bb6c39f6d1340@celestia.prolinkmoon.com:443 //Closed🔴
 ```
 
 Add PEERS&#x20;

@@ -1,5 +1,5 @@
 ---
-description: some frequently used commands and tools
+description: some frequently used commands, basic security,  and tools.
 ---
 
 # Linux/Ubuntu - Basics

@@ -174,3 +174,7 @@ Example:
 | SSH              | Secure way to access your server remotely                   |
 | Ubuntu           | Popular Linux OS for running servers and crypto nodes       |
 | Server Provider  | Company where you rent a VPS or server (AWS, Contabo, etc.) |
+
+***
+
+Next up → **"Virtualization"**
