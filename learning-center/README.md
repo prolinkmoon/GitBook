@@ -8,6 +8,8 @@ Many blockchain projects (like Cosmos-based chains, Ethereum rollups, or Substra
 
 Everything in this guide is written as simply as possible, with real commands that you can copy and run.
 
+## **Table of Contents:**
+
 ### 📚 **Book of node (for Beginners)**&#x20;
 
 a starter pack to easily understand Servers & Infrastructure
@@ -30,12 +32,63 @@ a starter pack to easily understand Servers & Infrastructure
   * Connecting to your server securely
   * Basic SSH commands
 
-### **🐧 Linux/Ubuntu Basics**
+***
 
-**Included:**
+### **🐧 Linux/Ubuntu - Basics**
 
 * **🔐 Security Basics**
 * **📦 Common Dependencies**
 * **🐙 Using Git & GitHub**
 * **🧹 Uninstalling & Cleaning Up**
+
+***
+
+### 🧩 Virtualization
+
+* **What is a Virtual Machine (VM)?**
+* **VirtualBox, VMware, WSL (on Windows)**
+* **Local Development vs Cloud Hosting**
+* **How to Install a VM on Local PC (step-by-step)**
+
+***
+
+### 🌐 Networking - Basics
+
+* **Public IP vs Private IP**
+* **What is a Port? (and common ports)**
+* **Port Forwarding (NAT)**
+* **Firewall with UFW**
+* **Basic Networking Tools (telnet, nc, netstat)**
+* **Reverse Proxy Overview**
+
+***
+
+### 🐳 Docker - Basics
+
+* **What is Docker? (Simple Explanation)**
+* **Why use Docker for Nodes & Services?**
+* **Install Docker on Ubuntu**
+* **Running a Container (Basic Example)**
+* **Docker Compose (optional for multi-service setup)**
+
+***
+
+### 🧭 NGINX - Basics
+
+* **What is NGINX? (Web server & reverse proxy)**
+* **Install NGINX on Ubuntu**
+* **Serve a Subdomain (e.g. `rpc.domain.com`)**
+* **Reverse Proxy to a Node's RPC/API**
+* **Free SSL with Certbot (Let’s Encrypt)**
+* **Hosting Multiple Services/Subdomains**
+
+
+
+### 💡 More topics coming soon:
+
+* **Node Management**
+* **Security - ( Advanced )**
+* **monitoring Node via your API  //Exposing Metrics (Prometheus, Grafana)**
+
+
 

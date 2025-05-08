@@ -82,25 +82,25 @@ sudo ufw status
 #### 🔍 Check open ports on your server:
 
 ```bash
-bashCopyEditsudo lsof -i -P -n | grep LISTEN
+sudo lsof -i -P -n | grep LISTEN
 ```
 
 #### 📡 Check public IP:
 
 ```bash
-bashCopyEditcurl ifconfig.me
+curl ifconfig.me
 ```
 
 #### 🔗 Test if a port is open (from outside):
 
 ```bash
-bashCopyEdittelnet <your-server-ip> 26656
+telnet <your-server-ip> 26656
 ```
 
 #### 🧱 Check if a port is blocked by firewall:
 
 ```bash
-bashCopyEditnc -zv <your-server-ip> 26656
+nc -zv <your-server-ip> 26656
 ```
 
 ***
@@ -118,19 +118,19 @@ Most blockchain nodes need to **connect to other peers**. Make sure:
 ### 📊 Monitor Who's Connecting
 
 ```bash
-bashCopyEditsudo netstat -tulnp
+sudo netstat -tulnp
 ```
 
 Or using `ss`:
 
 ```bash
-bashCopyEditsudo ss -tuln
+sudo ss -tuln
 ```
 
 To see SSH login attempts:
 
 ```bash
-bashCopyEditjournalctl -u ssh
+journalctl -u ssh
 ```
 
 ***
@@ -140,7 +140,7 @@ bashCopyEditjournalctl -u ssh
 Block unused ports and protocols. Example:
 
 ```bash
-bashCopyEditsudo ufw deny 8000
+sudo ufw deny 8000
 sudo ufw deny from 0.0.0.0/0 to any port 23 proto tcp
 ```
 
